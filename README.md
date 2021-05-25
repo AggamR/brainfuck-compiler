@@ -1,2 +1,2 @@
 # brainfuck-compiler
-a compiler for brainfuck to c
+a compiler that compiles brainfuck to c.
